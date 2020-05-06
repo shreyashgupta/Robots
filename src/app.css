@@ -1,0 +1,27 @@
+@font-face {
+font-family: 'Batman Beat the hell Outta Me';
+font-style: normal;
+font-weight: normal;
+src: local('Batman Beat the hell Outta Me'), url('BATMAN.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Blanka Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Blanka Regular'), url('Blanka-Regular.woff') format('woff');
+}
+.f0{
+font-family: 'Blanka Regular';
+color: lightgreen;
+text-shadow: 1px 1px black;
+font-size: 60px;
+
+}
+#fixed 
+{ position: sticky;
+	background:linear-gradient(to right, rgb(16, 22, 20), rgb(58, 58, 58));
+	top:0;
+ left: 0;
+  width: 100%;
+   z-index: 99; }

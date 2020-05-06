@@ -1,0 +1,862 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"tect",
+				"text-decoration\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"E",
+				"engineering"
+			],
+			[
+				"recent",
+				"Recent"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"MAR",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"me",
+				"margin-left\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"par",
+				"particles"
+			],
+			[
+				"u",
+				"context-menu\tcursor"
+			],
+			[
+				"on",
+				"onRouteChange"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"gr",
+				"grid-gap\tproperty"
+			],
+			[
+				"s",
+				"space-around\tjustify-content"
+			],
+			[
+				"mart",
+				"margin-right\tproperty"
+			],
+			[
+				"baCk",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"sea",
+				"serachfield"
+			],
+			[
+				"o",
+				"onSearchChange"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"f",
+				"first_name"
+			],
+			[
+				"R",
+				"robots"
+			],
+			[
+				"boder",
+				"border\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"row",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"fle",
+				"flex-end\tjustify-content"
+			],
+			[
+				"pass",
+				"Password"
+			],
+			[
+				"verify",
+				"verifyuser"
+			],
+			[
+				"p",
+				"Password"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"jsc",
+				"jscolor"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"grid",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-column\tproperty"
+			],
+			[
+				"paddo",
+				"padding-top\tproperty"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"grid-c",
+				"grid-column\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"grid-col",
+				"grid-column\tproperty"
+			],
+			[
+				"gripte",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"anima",
+				"animation-duration\tproperty"
+			],
+			[
+				"sel",
+				"align-self\tproperty"
+			],
+			[
+				"fl",
+				"flex-end\talign-self"
+			],
+			[
+				"ro",
+				"row\tflex-direction"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"backgroun",
+				"background-repeat\tproperty"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"bac",
+				"background-blend-mode\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"size",
+				"size\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"trasfo",
+				"transform\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"TE",
+				"text-align\tproperty"
+			],
+			[
+				"IN",
+				"inline-block\tdisplay"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"mat",
+				"margin-right\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"mari",
+				"margin-bottom\tproperty"
+			],
+			[
+				"cont",
+				"align-content\tproperty"
+			],
+			[
+				"space",
+				"space-between\talign-content"
+			],
+			[
+				"no",
+				"no-drop\tcursor"
+			],
+			[
+				"n",
+				"none\tcursor"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"i",
+				"inline\tdisplay"
+			],
+			[
+				"FONT-",
+				"font-family\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"border-",
+				"border-top\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"image",
+				"border-image\tproperty"
+			],
+			[
+				"left",
+				"margin-left\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Shreyash/Desktop/git/robofriends/src/containers/App.js",
+			"settings":
+			{
+				"buffer_size": 1132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Shreyash/Desktop/Robofriends/src/App.js",
+			"settings":
+			{
+				"buffer_size": 1054,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"A File Icon: Clean Patches"
+			],
+			[
+				"file ic",
+				"A File Icon: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+			"window",
+			"node-v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Shreyash/Desktop/git/news",
+		"/C/Users/Shreyash/Desktop/git/robofriends",
+		"/C/Users/Shreyash/Desktop/git/robofriends/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Shreyash/Desktop/Robofriends/src/card.css",
+		"/C/Users/Shreyash/Desktop/git/robofriends/package.json",
+		"/C/Users/Shreyash/Desktop/Web Dev/news/package.json",
+		"/C/Users/Shreyash/Documents/GitHub/News/package.json",
+		"/C/Users/Shreyash/Desktop/git/News/README.md",
+		"/C/Users/Shreyash/Desktop/git/News/package.json",
+		"/C/Users/Shreyash/Desktop/Web Dev/news/README.md",
+		"/C/Users/Shreyash/Desktop/git/News/package-lock.json",
+		"/C/Users/Shreyash/Desktop/git/news/src/article.css",
+		"/C/Users/Shreyash/Desktop/git/news/src/news.js",
+		"/C/Users/Shreyash/Desktop/git/news/src/List.js",
+		"/C/Users/Shreyash/Desktop/git/news/src/App.js",
+		"/C/Users/Shreyash/Desktop/git/news/src/App.css",
+		"/C/Users/Shreyash/Desktop/git/News/README (2).md",
+		"/C/Users/Shreyash/Desktop/test/package.json",
+		"/C/Users/Shreyash/Desktop/git/shreyashgupta.github.io/README (3).md",
+		"/C/Users/Shreyash/Desktop/git/news/public/index.html",
+		"/C/Users/Shreyash/AppData/Local/Temp/Rar$DIa8980.35149/style.css",
+		"/C/Users/Shreyash/Desktop/Web Dev/CSS GRID/style.css",
+		"/C/Users/Shreyash/AppData/Local/Temp/Rar$DIa9576.30897/style.css",
+		"/C/Users/Shreyash/Desktop/Robofriends/src/Cardlist.js",
+		"/C/Users/Shreyash/Desktop/project/src/App.js",
+		"/C/Users/Shreyash/Desktop/Robofriends/src/App.js",
+		"/C/Users/Shreyash/Desktop/git/news/src/index.js",
+		"/C/Users/Shreyash/Desktop/git/star-wars/index.html",
+		"/C/Users/Shreyash/Desktop/git/star-wars/script.js",
+		"/C/Users/Shreyash/Desktop/git/background-generator/color.js",
+		"/C/Users/Shreyash/Desktop/git/background-generator/index.html",
+		"/C/Users/Shreyash/Desktop/git/cat-facts/app/routes/auth.routes.js",
+		"/C/Users/Shreyash/Desktop/git/background-generator/jscolor.js",
+		"/C/Users/Shreyash/Desktop/project/src/Home.js",
+		"/C/Users/Shreyash/Desktop/project/src/Database.js",
+		"/C/Users/Shreyash/Desktop/project/src/recent.js",
+		"/C/Users/Shreyash/Desktop/project/src/upcoming.js",
+		"/C/Users/Shreyash/Desktop/project/src/card.js",
+		"/C/Users/Shreyash/Desktop/project/src/Cardlist.js",
+		"/C/Users/Shreyash/Desktop/project/src/gallery.js",
+		"/C/Users/Shreyash/Desktop/project/public/index.html",
+		"/C/Users/Shreyash/Desktop/project/src/Upcoming.css",
+		"/C/Users/Shreyash/Desktop/project/src/recent.css",
+		"/C/Users/Shreyash/Desktop/project/src/Home.css",
+		"/C/Users/Shreyash/Desktop/project/src/recent/recent.html",
+		"/C/Users/Shreyash/Desktop/project/src/card.css",
+		"/C/Users/Shreyash/Desktop/project/src/gallery.css",
+		"/C/Users/Shreyash/Desktop/project/src/Cardlist.css",
+		"/C/Users/Shreyash/Desktop/test/test.html",
+		"/C/Users/Shreyash/Desktop/test/test.css",
+		"/C/Users/Shreyash/Desktop/Web Dev/sp2/index1.html",
+		"/C/Users/Shreyash/Desktop/robofriends/src/Cardlist.js",
+		"/C/Users/Shreyash/Desktop/robofriends/src/Card.js",
+		"/C/Users/Shreyash/Downloads/WP_20180610_15_21_20_Selfie - Nachiket G Kallapur.jpg.crdownload",
+		"/C/Users/Shreyash/Desktop/robofriends/src/card.css",
+		"/C/Users/Shreyash/Desktop/robofriends/src/robots.js",
+		"/C/Users/Shreyash/Desktop/project/src/index.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/CSS GRID/index (1).html",
+		"/C/Users/Shreyash/Desktop/robofriends/src/App.js",
+		"/C/Users/Shreyash/Desktop/robofriends/src/app.css",
+		"/C/Users/Shreyash/Desktop/project/public/about/about.css",
+		"/C/Users/Shreyash/Desktop/project/public/about/about.html",
+		"/C/Users/Shreyash/Desktop/Web Dev/project/about.css",
+		"/C/Users/Shreyash/Desktop/project/public/robofriends/src/app.css",
+		"/C/Users/Shreyash/Downloads/06. Time Commitment (1).html",
+		"/C/Users/Shreyash/Downloads/01. Welcome to the Readiness Assessment-e5mvyEbrS_c.ar.vtt",
+		"/C/Users/Shreyash/Desktop/Web Dev/CSS3/SECOND/gallery.html",
+		"/C/Users/Shreyash/Desktop/Web Dev/CSS3/SECOND/a/home.html",
+		"/C/Users/Shreyash/Desktop/Web Dev/CSS3/SECOND/a/home.css",
+		"/C/Users/Shreyash/AppData/Local/Temp/Rar$DIa1440.12316/style.css",
+		"/C/Users/Shreyash/Desktop/Web Dev/project/about.html",
+		"/C/Users/Shreyash/Desktop/Web Dev/project/home.css",
+		"/C/Users/Shreyash/AppData/Local/Temp/Rar$DIa1368.6191/style.css",
+		"/C/Users/Shreyash/Desktop/New folder/home.css",
+		"/C/Users/Shreyash/Desktop/New folder/home.html",
+		"/C/Users/Shreyash/AppData/Local/Temp/Rar$DIa2584.14966/style.css",
+		"/C/Users/Shreyash/AppData/Local/Temp/Rar$DIa16608.30613/style.css",
+		"/C/Users/Shreyash/Desktop/robofriends/public/index.html",
+		"/C/Users/Shreyash/Desktop/robofriends/public/xyz.html",
+		"/C/Users/Shreyash/Desktop/robofriends/public/sp2.css",
+		"/C/Users/Shreyash/Desktop/robofriends/src/Searchbox.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/sp2/sp2.css",
+		"/C/Users/Shreyash/Desktop/Web Dev/bootstrap-4.2.1-dist/css/bootstrap.css",
+		"/C/Users/Shreyash/Desktop/robofriends/xyz.html",
+		"/C/Users/Shreyash/Desktop/robofriends/src/Scroll.js",
+		"/C/Users/Shreyash/Desktop/robofriends/src/index.css",
+		"/C/Users/Shreyash/AppData/Local/Temp/Rar$DIa16608.30163/style.css",
+		"/C/Users/Shreyash/AppData/Local/Temp/Rar$DIa12956.43282/style.css",
+		"/C/Users/Shreyash/Desktop/robofriends/src/index.js",
+		"/C/Users/Shreyash/Desktop/instantiation.js",
+		"/C/Users/Shreyash/Downloads/exercise6.js",
+		"/C/Users/Shreyash/Downloads/exercise6-SOLUTIONS.js",
+		"/C/Users/Shreyash/Desktop/robofriends/src/Robots.js",
+		"/C/Users/Shreyash/Desktop/robofriends/node_modules/postcss-selector-parser/dist/selectors/constructors.js",
+		"/C/Users/Shreyash/Desktop/robofriends/README.md",
+		"/C/Users/Shreyash/Desktop/robofriends/node_modules/import-local/node_modules/pkg-dir/package.json",
+		"/C/Users/Shreyash/Desktop/robofriends/package.json",
+		"/C/Users/Shreyash/Desktop/robofriends/src/App.css",
+		"/C/Users/Shreyash/Desktop/robofriends/src/Hello.css",
+		"/C/Users/Shreyash/Desktop/robofriends/src/Hello.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/Basic login/style.css",
+		"/C/Users/Shreyash/Desktop/Web Dev/Basic login/package.json",
+		"/C/Users/Shreyash/Desktop/Web Dev/Basic login/index.html",
+		"/C/Users/Shreyash/Desktop/Web Dev/Basic login/login.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/CSS3/SECOND/gallery.css",
+		"/C/Users/Shreyash/Desktop/Web Dev/ToDo list/todo.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/ToDo list/todo.html",
+		"/C/Users/Shreyash/Desktop/Web Dev/jscolor/color.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/jscolor/jscolor.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/Mini FB/mini.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/ToDo list/todo.css",
+		"/C/Users/Shreyash/Downloads/exercise3.js",
+		"/C/Users/Shreyash/Downloads/exercise3-SOLUTIONS.js",
+		"/C/Users/Shreyash/Downloads/exercise4-SOLUTIONS.js",
+		"/C/Users/Shreyash/Downloads/exercise4.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/jscolor/style.css",
+		"/C/Users/Shreyash/Desktop/Web Dev/jscolor/index.html",
+		"/C/Users/Shreyash/Downloads/exercise1-SOLUTIONS.js",
+		"/C/Users/Shreyash/Downloads/exercise2.js",
+		"/C/Users/Shreyash/Downloads/Unconfirmed 40885.crdownload",
+		"/C/Users/Shreyash/Desktop/Web Dev/bg_changer/bg.js",
+		"/C/Users/Shreyash/Desktop/Web Dev/bg_changer/style.css",
+		"/C/Users/Shreyash/Desktop/Web Dev/bg_changer/index.html",
+		"/C/Users/Shreyash/Desktop/Web Dev/Mini FB/mini.html",
+		"/C/Users/Shreyash/Downloads/DOM-selectors.txt",
+		"/C/Users/Shreyash/Downloads/SectionOutline (1).txt",
+		"/C/Users/Shreyash/Desktop/Web Dev/project-start/index.html",
+		"/C/Users/Shreyash/Desktop/Web Dev/project-start/style.css",
+		"/C/Users/Shreyash/Downloads/exercise5.txt",
+		"/C/Users/Shreyash/Downloads/exercise5-SOLUTIONS.js",
+		"/C/Users/Shreyash/Downloads/exercise6.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"}",
+			"}/>)\n",
+			"robots",
+			";\n",
+			"}",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Shreyash/Desktop/git/robofriends/src/containers/App.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Shreyash/Desktop/Robofriends/src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 353.333333333,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 840.333333333
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
