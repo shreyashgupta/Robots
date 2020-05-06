@@ -44,7 +44,6 @@ render(){
 		        		   </header>
 		        <Cardlist robots={filter}
 		        			onRouteChange={this.onRouteChange}/>
-		        <a href="xyz.html">go  back</a>
  		        </div>:<Individual 
  		       			key = {this.state.route}
                        id={this.state.robots[this.state.route-1].id} 

@@ -1,7 +1,7 @@
 {
-  "name": "robofriends",
+  "name": "robots",
   "version": "0.1.0",
-  "homepage": "https://shreyashgupta.github.io/robofriends/",
+  "homepage": "https://shreyashgupta.github.io/Robots/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
